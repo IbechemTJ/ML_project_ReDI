@@ -1,6 +1,6 @@
-**# ML_project_ReDI**
+# ML_project_ReDI
 
-**## Predicting Fair Market Value for Used Cars 🚗💰**
+## Predicting Fair Market Value for Used Cars 🚗💰
 
 **Problem Statement:**
 ● Car buyers/sellers seek a reliable way to estimate prices of used cars.
